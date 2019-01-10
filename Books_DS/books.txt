@@ -1,0 +1,31 @@
+http://www.deeplearningbook.org/
+https://www.learndatasci.com/free-data-science-books/
+http://openbookproject.net/thinkcs/python/english3e/
+http://learnpythonbreakpython.com
+https://learnpythonthehardway.org
+https://www.oreilly.com/
+http://www.pythonlearn.com/book.php
+https://pymbook.readthedocs.io/en/latest/
+https://anandology.com/python-practice-book/
+http://greenteapress.com/wp/think-python-2e/
+https://en.wikibooks.org/wiki/Linear_Algebra
+https://en.wikibooks.org/wiki/Ordinary_Differential_Equations
+http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html
+SQL for Web Nerds
+by Philip Greenspun
+http://philip.greenspun.com/sql/
+https://artint.info/html/ArtInt.html
+CouchDB  http://guide.couchdb.org/editions/1/en/index.html
+
+
+
+https://www.learndatasci.com/best-data-science-online-courses/
+
+
+A Programmer's Guide to Data Mining
+http://guidetodatamining.com/
+
+Natural Language Processing with Python
+http://www.nltk.org/book_1ed/
+
+https://www.aprenderpython.net/
